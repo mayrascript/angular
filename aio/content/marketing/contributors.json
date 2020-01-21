@@ -827,5 +827,12 @@
     "bio": "Manu heads technical program management for Angular at Google. Manu keeps the big picture in focus and works with cross-functional teams to plan, execute and usher programs through the entire lifecycle.",
     "groups": ["Angular"],
     "lead": "juleskremer"
+  },
+  "mayrascript": {
+    "name": "Mayra Rodriguez",
+    "picture": "mayrarodriguez.jpg",
+    "twitter": "mayrascript",
+    "bio": "Mayra Rodríguez is a Computer Engineer graduated from Fermín Toro University in Cabudare, Edo. Lara - Venezuela. She has been developing web and mobile applications mainly for more than 3 years the Angular technology. She feels passionate about learning, sharing her knowledge, empowerment feminine and of course, technology . She's GDE for Angular category and Web Technologies, also Women Techmakers Ambassador and Co-Organizer in Flutter Colombia. Also, she's a full-time mother of a beautiful baby named Thomas .",
+    "groups": ["GDE"]
   }
 }
